@@ -1,0 +1,11 @@
+# Sensitive personal data stays local and must never enter this public repository.
+/dna-analysis/
+
+# Local configuration and generated files.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

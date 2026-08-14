@@ -1,0 +1,47 @@
+Nick - all marketing hats
+Runs commercial analytics (promo growth CRM)
+
+* Every 6 months something new
+* Do not fall victim to a sunk vost fallacy
+* People are great, sharp, give a shit,
+
+
+James - 3 yrs
+First AE hire
+6-12 months
+- Sigma -> Hex
+-
+
+We have a DE team who handles a lot of ingestion
+Previously
+
+
+Skill ->
+AE owns it totally
+Airflow for orchestration
+Very cool
+
+
+Format meeting: weekly grooming session
+
+Work Culture:
+- WLB is pretty good
+- Data team get-together about twice a year
+
+Conversational analytics:
+-
+
+
+
+1.5 Years
+
+Thoughts on interacting with product teams?
+- No weekly syncs
+- Establishing bi-weekly would be good
+- Tasks and deliverables: ad hoc, dependent on product managers
+- Challenges feature launched:
+- In perfect world: PM starts project/feature, data modeling, experimentation, analysis
+
+Background in sports? Tech or sports-betting adjacent
+
+Product Analytics team: eCommerce, eCommerce, Google, Facebook, Spot
